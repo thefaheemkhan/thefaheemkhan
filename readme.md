@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Faheem Khan </h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/thefaheemkhan/">
-    <img src="https://img.shields.io/badge/linkedin-the.faheemkhan-blue">
+    <img src="https://img.shields.io/badge/linkedin-thefaheemkhan-blue">
   </a>
   
   <a href="https://www.instagram.com/the.faheemkhan/">
@@ -22,7 +22,7 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
