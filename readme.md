@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kfaheem119@gmail.com alt=kfaheem119@gmail.com/></p>
 
@@ -38,7 +38,6 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/d3.png" alt=d3js width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
