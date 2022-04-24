@@ -17,11 +17,11 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on ** E-commerece MERN App**
+- 🔭 I’m currently working on **E-commerece MERN App**
 - 🌱 I’m currently learning ... **Blockchain and React.js**
-- 💬 Ask me about ... **Web Develpoment**
+- 💬 Ask me about ... **MERN Stack Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
+- ⚡ Fun fact ... **Blockchain**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
