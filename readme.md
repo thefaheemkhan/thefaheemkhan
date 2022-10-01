@@ -18,10 +18,10 @@
 
 
 - 🔭 I’m currently working on **E-commerece MERN App**
-- 🌱 I’m currently learning ... **Blockchain and React.js**
+- 🌱 I’m currently learning ... **NodeJs and ReactJs**
 - 💬 Ask me about ... **MERN Stack Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Blockchain**❤
+- ⚡ Fun fact ... **DSA Java**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
