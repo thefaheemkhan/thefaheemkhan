@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Data Geek from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science ( Graduated in 2022)</h3>
 
 
@@ -17,11 +17,11 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **E-commerece MERN App**
-- 🌱 I’m currently learning ... **NodeJs and ReactJs**
-- 💬 Ask me about ... **MERN Stack Develpoment**
+- 🔭 I’m currently working on ** Data Analytics **
+- 🌱 I’m currently learning ... ** Data Scientist **
+- 💬 Ask me about ... ** Data World **
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **DSA Java**❤
+- ⚡ Fun fact ... ** Data is Fuel**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
