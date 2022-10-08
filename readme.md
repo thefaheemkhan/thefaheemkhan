@@ -18,10 +18,10 @@
 
 
 - 🔭 I’m currently working on **Data Analytics**
-- 🌱 I’m currently learning ... **Data Scientist**
+- 🌱 I’m currently learning ... **Data Analysis & Science**
 - 💬 Ask me about ... **Data World**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Data is Fuel**❤
+- ⚡ Fun fact ... **Data is fuel of Economy**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
