@@ -17,11 +17,11 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on ** Data Analytics **
-- 🌱 I’m currently learning ... ** Data Scientist **
-- 💬 Ask me about ... ** Data World **
+- 🔭 I’m currently working on **Data Analytics**
+- 🌱 I’m currently learning ... **Data Scientist**
+- 💬 Ask me about ... **Data World**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... ** Data is Fuel**❤
+- ⚡ Fun fact ... **Data is Fuel**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
