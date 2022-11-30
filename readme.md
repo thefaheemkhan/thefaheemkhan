@@ -4,22 +4,22 @@
     <img src="https://img.shields.io/badge/linkedin-thefaheemkhan-blue">
   </a>
   
-  <a href="https://www.instagram.com/the.faheemkhan/">
-    <img src="https://img.shields.io/badge/instagram-the.faheemkhan-red">
+  <a href="https://www.instagram.com/its.faheemkhan/">
+    <img src="https://img.shields.io/badge/instagram-its.faheemkhan-red">
   </a>
 </p>
 
 <h3 align="center">A passionate Data Geek from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science ( Graduated in 2022)</h3>
+<h3 align="center">--------------------------------------------------------------------</h3>
 
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Data Analytics**
-- 🌱 I’m currently learning ... **Data Analysis & Science**
-- 💬 Ask me about ... **Data World**
+- 🔭 I’m currently working on **Machine learning**
+- 🌱 I’m currently learning ... **Data Science & ML / AI**
+- 💬 Ask me about ... **Machine Learning & Artificial Intelligence**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Data is fuel of Economy**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
