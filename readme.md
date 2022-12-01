@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Faheem Khan </h1>
+<h1 align="center">Ahoy , I'm Faheem Khan </h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/thefaheemkhan/">
     <img src="https://img.shields.io/badge/linkedin-thefaheemkhan-blue">
