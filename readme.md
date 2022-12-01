@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Data Geek from India</h3>
+<h3 align="center">A Passionate Data Geek from India</h3>
 <h3 align="center"> -------------------------------------------------------------------------------------------------------- </h3>
 
 
