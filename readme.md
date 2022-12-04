@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Machine learning**
 - 🌱 I’m currently learning ... **Data Science & ML / AI**
 - 💬 Ask me about ... **Machine Learning & Artificial Intelligence**
-- 😄 Employement ... **Open for intern opportunities**
+- 😄 Employement ... **Open for Job opportunities**
 - ⚡ Fun fact ... **Data is fuel of Economy**❤
 - 📫 How to reach me **kfaheem119@gmail.com**
 <h4>Programming Languages: </h4>
