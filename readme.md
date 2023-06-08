@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="thefaheemkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefaheemkhan" alt="thefaheemkhan" /></a> </p>
+[![thefaheemkhan's GitHub | Languages Over Time](https://stats.quine.sh/thefaheemkhan/languages-over-time?theme=light)](https://quine.sh)
 
 <p align="left"> <a href="https://twitter.com/thefahimkhan" target="blank"><img src="https://img.shields.io/twitter/follow/thefahimkhan?logo=twitter&style=for-the-badge" alt="thefahimkhan" /></a> </p>
 
