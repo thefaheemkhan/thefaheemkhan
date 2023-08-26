@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/thefahimkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
 
 
-## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/)
+## I'm a Artificial Intelligence Practitioner, Deep Learning Engineer, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/)
 
 
 - 🔭 I’m currently working on [Deep Learning Algorithms](#)
@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [Here](Here)
 - 📝 I regularly write articles on [Medium](Medium)
 - ⚡ Goals 2023 **Artificial Intelligence Practitioner || Machine Learning Engineer**
-- - 📫 How to reach me **@thefaheemkhan**
+- 📫 How to reach me **@thefaheemkhan**
 - 📄 Know about my experiences [Here](Here)
 
 ### Blogs posts
