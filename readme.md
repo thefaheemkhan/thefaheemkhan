@@ -1,34 +1,21 @@
 ### Hi there, I'm Faheem Khan👋
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)  
 [![Website](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="thefaheemkhan" /> </p>
-<p align="left"> <a href="https://twitter.com/thefahimkhan" target="blank"><img src="https://img.shields.io/twitter/follow/thefahimkhan?logo=twitter&style=for-the-badge" alt="thefahimkhan" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/thefahimkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
 
 
-## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/)
 
 
 - 🔭 I’m currently working on [Deep Learning Algorithms](#)
-
 - 🌱 I’m currently learning **Deep Learning**
-
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
-
 - 🤝 I’m looking for help with **Learning opportunities**
-
 - 👨‍💻 All of my projects are available at [Here](Here)
-
 - 📝 I regularly write articles on [Medium](Medium)
-
-- 💬 Ask me about **Artificial Intelligence & Machine Learning**
-
-- 📫 How to reach me **@thefaheemkhan**
-
+- ⚡ Goals 2023 **Artificial Intelligence Practitioner || Machine Learning Engineer**
+- - 📫 How to reach me **@thefaheemkhan**
 - 📄 Know about my experiences [Here](Here)
-
-- ⚡ Fun fact **Artificial Intelligence is Future**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
