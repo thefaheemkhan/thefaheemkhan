@@ -25,7 +25,7 @@
 <a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/jupyter.png" alt="#" height="40" width="40" /> </a>
 <a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/fastapi.png" alt="#" height="40" width="40" /> </a>
 <a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/docker.png" alt="#" height="40" width="40" /> </a>
-<a href="##" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/django.png" alt="#" height="40" width="100" /> </a>
+<a href="##" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/django.png" alt="#" height="40" width="70" /> </a>
 
 
 
