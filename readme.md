@@ -17,7 +17,8 @@
 - 📫 How to reach me **@thefaheemkhan**
 - 📄 Know about my experiences [Here](Here)
 
-### Blogs posts
+### Tchnologies i use
+<a href="https://pyhton.org/#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/django.png" alt="#" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
