@@ -1,7 +1,8 @@
 ### Hi there, I'm Faheem Khan👋
-![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-[![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
+![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)  
+[![Website](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="thefaheemkhan" /> </p>
 <p align="left"> <a href="https://twitter.com/thefahimkhan" target="blank"><img src="https://img.shields.io/twitter/follow/thefahimkhan?logo=twitter&style=for-the-badge" alt="thefahimkhan" /></a> </p>
 
