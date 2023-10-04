@@ -1,4 +1,4 @@
-## Hi there, I'm Faheem Khan👋
+# Hi there, I'm Faheem Khan👋
 ## I'm a Artificial Intelligence Practitioner, Deep Learning Engineer, and Machine learning Practitioner.
 
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)  
@@ -8,7 +8,8 @@
 #### 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Algotrading and Pattern Recognition.
 #### 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 #### 👯 I’m interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
-#### 👉🏼 Feel free to follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/) to stay updated with my latest AI learning resources. 
+#### 👉🏼 Feel free to follow me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/)  to stay updated with my latest AI learning resources. 
+------------------------------------------------------
 
 - 🔭 I’m currently working on [Deep Learning Algorithms](#)
 - 🌱 I’m currently learning **Deep Learning**
