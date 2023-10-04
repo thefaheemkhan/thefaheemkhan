@@ -1,15 +1,15 @@
 # Hi there, I'm Faheem Khan 👋
 ## I'm a Artificial Intelligence Practitioner, Deep Learning Engineer, and Machine learning Practitioner.
 
-![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)  
+![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)
 [![Website](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thefahimkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/) 
 
-#### 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Algotrading and Pattern Recognition.
-#### 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-#### 👯 I’m interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
-#### 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning resources. 
+- 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Algotrading and Pattern Recognition.
+- 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+- 👯 I’m interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
+- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning resources. 
 ------------------------------------------------------
 
 - 🔭 I’m currently working on [Deep Learning Algorithms](#)
