@@ -1,4 +1,4 @@
-# Hi there, I'm Faheem Khan👋
+# Hi there, I'm Faheem Khan 👋
 ## I'm a Artificial Intelligence Practitioner, Deep Learning Engineer, and Machine learning Practitioner.
 
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)  
