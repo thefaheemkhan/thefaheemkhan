@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available at [Here](Here)
 - 📝 I regularly write articles on [Medium](https://medium.com/@thefaheemkhan) , [LinkeIn](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 How to reach me **hi@thefaheemkhan.com**
-- 📄 Know about my experiences [Here](Here)
+- 📄 Know about my experiences [Faheem Khan](thefaheemkhan.github.io)
 
 ### Tchnologies i use:
 <a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/python.png" alt="#" height="40" width="40" /> </a>
