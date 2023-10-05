@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
 - 🤝 I’m looking for help with **Learning opportunities**
 - 👨‍💻 All of my projects are available at [Here](Here)
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@thefaheemkhan) , [LinkeIn](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 How to reach me **hi@thefaheemkhan.com**
 - 📄 Know about my experiences [Here](Here)
 
