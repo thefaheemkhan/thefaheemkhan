@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Machine Learning / Deep Learning**
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
 - 🤝 I’m looking for help with **Learning opportunities**
-- 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.github.io)
+- 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.com)
 - 📝 I regularly write articles on [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 How to reach me **hi@thefaheemkhan.com**
 - 📄 Know about my experiences [Faheem Khan](thefaheemkhan.github.io)
