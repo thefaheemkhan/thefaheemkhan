@@ -1,5 +1,5 @@
 # Hi there, I'm Faheem Khan 👋
-## I'm a Artificial Intelligence Practitioner, Deep Learning Engineer, and Machine learning Practitioner.
+## I'm a Artificial Intelligence Practitioner, and Machine Learning Engineer.
 
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)
 [![Website](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
