@@ -9,10 +9,10 @@
 - 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Algotrading and Pattern Recognition.
 - 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - 👯 I’m interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
-- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning resources. 
+- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning journey and resources.
 ------------------------------------------------------
 
-- 🔭 I’m currently working on [Deep Learning Algorithms](#)
+- 🔭 I’m currently working on [Deep Learning Architectures](#)
 - 🌱 I’m currently learning **Machine Learning / Deep Learning**
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
 - 🤝 I’m looking for help with **Learning opportunities** 
