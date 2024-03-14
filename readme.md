@@ -4,6 +4,7 @@
 
 
 [![Website](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
+[![YouTube](https://img.shields.io/website?label=thefaheemkhan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/thefaheemkhan/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thefahimkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thefahimkhan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/) 
 
