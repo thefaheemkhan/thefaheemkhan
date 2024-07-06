@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [Deep Learning Architectures](#)
 - 🌱 I’m currently learning **Deep Learning Models **
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
-- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [Artificial Intelligence](#) 
+- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [Artificial Intelligence and Deep Learning ](#) 
 - 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.com)
 - 📝 I regularly write articles on [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 You can Mail me at  **hi@thefaheemkhan.com**
