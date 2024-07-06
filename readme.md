@@ -1,5 +1,5 @@
 # Hi there, I'm Faheem Khan 👋
-## I'm a Machine Learning Engineer and Artificial Intelligence Practitioner. 
+## I'm a Machine Learning Engineer and Artificial Intelligence Practitioner . 
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)
 
 
