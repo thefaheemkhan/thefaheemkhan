@@ -1,5 +1,5 @@
 # Hi there, I'm Faheem Khan 👋
-## I'm a Machine Learning Engineer and Artificial Intelligence Practitioner . 
+## I'm a Machine Learning Engineer and Artificial Intelligence Practitioner. 
 ![](https://komarev.com/ghpvc/?username=thefaheemkhan&color=green)
 
 
@@ -15,7 +15,7 @@
 ------------------------------------------------------
 
 - 🔭 I’m currently working on [Deep Learning Architectures](#)
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning Models **
 - 👯 I’m looking to collaborate on [Machine Learning Projects](#)
 - 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [Artificial Intelligence](#) 
 - 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.com)
