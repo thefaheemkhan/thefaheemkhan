@@ -11,16 +11,16 @@
 - 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
 - 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - 👯 I’m interested in collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email! Gmail/ **thefaheemkhan11@gmail.com**
-- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning journey and resources. LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/) , [Faheem Khan](thefaheemkhan.com) ,  [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan)
+- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning journey and resources. 
 ------------------------------------------------------
 
-- 🔭 I’m currently working on [Deep Learning Architectures](#)
-- 👯 I’m looking to collaborate on [Deep Learning Projects](#)
-- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [Artificial Intelligence and Deep Learning ](#) 
+- 🔭 I’m currently working on [EnigmaX Labs](#)
+- 👯 I’m looking to collaborate on [Natural Language Processing](#)
+- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [ Natural Language Processing & Computer Vision ](#) 
 - 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.com)
 - 📝 I regularly write articles on [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
-- 📫 You can Mail me at  **hi@thefaheemkhan.com**
-- 📄 Know about my experiences [Faheem Khan](thefaheemkhan.github.io)
+- 📫 You can Mail me at  **thefaheemkhan11@gmail.com**
+- 📄 Know about my experiences and Blogs [Faheem Khan](thefaheemkhan.github.io)
 
 ### Tchnologies i use:
 <a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/python.png" alt="#" height="40" width="40" /> </a>
