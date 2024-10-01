@@ -15,8 +15,7 @@
 ------------------------------------------------------
 
 - 🔭 I’m currently working on [EnigmaX Labs](#)
-- 👯 I’m looking to collaborate on [Natural Language Processing](#)
-- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [ Natural Language Processing & Computer Vision ](#) 
+- 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [NLP & Computer Vision](#) 
 - 👨‍💻 All of my projects are available at [Portfolio Faheem Khan](thefaheemkhan.com)
 - 📝 I regularly write articles on [Gthub/thefaheemkhan.github.io](thefaheemkhan.github.io) , [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 You can Mail me at  **thefaheemkhan11@gmail.com**
