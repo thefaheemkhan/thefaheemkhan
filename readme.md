@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on [Natural Language Processing](#)
 - 🤝 I’m looking for opportunities to work with the industry's best minds in the field of [ Natural Language Processing & Computer Vision ](#) 
 - 👨‍💻 All of my projects are available at [Faheem Khan](thefaheemkhan.com)
-- 📝 I regularly write articles on [Gthub Faheem Khan](thefaheemkhan.github.io) [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
+- 📝 I regularly write articles on [Gthub/thefaheemkhan.github.io](thefaheemkhan.github.io) , [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan) , [LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/)
 - 📫 You can Mail me at  **thefaheemkhan11@gmail.com**
 - 📄 Know about my experiences and Github Blogs [Faheem Khan](thefaheemkhan.github.io)
 
