@@ -8,10 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaheemkhan/) 
 
 
-- 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Algotrading, and Pattern Recognition.
+- 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
 - 💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-- 👯 I’m interested in collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
-- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning journey and resources.
+- 👯 I’m interested in collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email! [Gmail/thefaheemkhan11@gmail.com]
+- 👉🏼 Feel free to follow me on my Socials to stay updated with my latest AI learning journey and resources. LinkedIn/thefaheemkhan](https://www.linkedin.com/in/thefaheemkhan/) [Faheem Khan](thefaheemkhan.com) [Medium/thefaheemkhan](https://medium.com/@thefaheemkhan)
 ------------------------------------------------------
 
 - 🔭 I’m currently working on [Deep Learning Architectures](#)
