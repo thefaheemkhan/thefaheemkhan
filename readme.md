@@ -43,9 +43,7 @@
 <a href="https://instagram.com/the.faheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.faheemkhan" height="30" width="40" /></a>
 <a href="https://medium.com/@thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thefaheemkhan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thefaheemkhan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thefaheemkhan/profile" height="30" width="40" /></a>
 </p>
 
 <!--
