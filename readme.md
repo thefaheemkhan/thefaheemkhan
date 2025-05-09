@@ -3,8 +3,6 @@
 🚀 Machine Learning Engineer | 🤖 AI Practitioner | 🧠 LLM Explorer | 🦾 Future Tony Stark of AI  
 </p>
 
-### 🔗 Connect with Me
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="faheem profile views" />
   <a href="https://thefaheemkhan.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -14,20 +12,6 @@
   <a href="https://github.com/thefaheemkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:thefaheemkhan11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="faheem profile views" />
-</p>
-
-
-
-
-
-
 
 ---
 
