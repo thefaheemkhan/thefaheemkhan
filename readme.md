@@ -66,34 +66,16 @@ A future company focused on building **industry-specific AI models**, conducting
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
-      
-      ### 🌐 Connect With Me
-      
-      - 🌍 **Portfolio:** [faheemkhan.github.io](https://faheemkhan.github.io)  
-      - 🧠 **Medium:** [@thefaheemkhan](https://medium.com/@thefaheemkhan)  
-      - 🔗 **LinkedIn:** [thefaheemkhan](https://linkedin.com/in/thefaheemkhan)  
-      - 🐦 **Twitter (X):** [@thefahimkhan](https://x.com/thefahimkhan)  
-      - 💻 **GitHub:** [@thefaheemkhan](https://github.com/thefaheemkhan)
-      
-    </td>
-    <td valign="top">
-      
-      ### 📂 Projects & Articles
-      
-      - 👨‍💻 **All Projects:** [faheemkhan.github.io](https://faheemkhan.github.io)  
-      - 📝 **Articles on:**  
-        - 📘 [Medium](https://medium.com/@thefaheemkhan)  
-        - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)  
-        - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)
-      
-    </td>
-  </tr>
-</table>
 
+## 🌐 Connect With Me
 
+| **Socials**                                                                 | **Articles & Projects**                                                                 |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All Projects](https://faheemkhan.github.io)**                                  |
+| 🧠 **[Medium](https://medium.com/@thefaheemkhan)**                          | 📝 **Articles on:**                                                                     |
+| 🔗 **[LinkedIn](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Medium](https://medium.com/@thefaheemkhan)                                        |
+| 🐦 **[Twitter (X)](https://x.com/thefahimkhan)**                           | - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)                                    |
+| 💻 **[GitHub](https://github.com/thefaheemkhan)**                          | - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
 
 
 
