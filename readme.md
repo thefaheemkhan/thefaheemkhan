@@ -7,17 +7,11 @@
 ## 🔭 What I'm Passionate About
 
 I’m deeply passionate about the transformative power of **Artificial Intelligence** 🤖, **Machine Learning** 📊, and **Deep Learning** 🧠. My work spans across the full AI stack — from building intelligent **Computer Vision** 👁️ systems to developing sophisticated **Natural Language Processing** 🗣️ models.
+Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering force in AI — building AI systems and companies that push the boundaries of what's possible and leave a lasting impact on humanity 🌟.
 
 I believe in AI’s ability to solve some of the world’s biggest challenges 🌍 — whether it’s **revolutionizing healthcare** 🏥, **automating finance** 💹, **defending nations** 🛡️, **accelerating clean energy** ⚡, or **exploring space** 🚀.
 
-I’m especially interested in:
-
-- 🔁 **Reinforcement Learning**
-- ✨ **Generative AI & LLMs**
-- 🧱 **Building scalable AI infrastructure**
-- 📚 **Ethical, responsible AI development**
-
-Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering force in AI — building AI systems and companies that push the boundaries of what's possible and leave a lasting impact on humanity 🌟.
+I’m especially interested in: 🔁 **Reinforcement Learning**, ✨ **Generative AI & LLMs**, 🧱 **Building scalable AI infrastructure**, 📚 **Ethical, responsible AI development**
 
 ---
 
@@ -50,7 +44,7 @@ Stay updated with my AI journey, tutorials, and projects:
 
 | **Socials**                                                                 | **Articles & Projects**                                                                 |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All of my AI & ML Projects @faheemkhan.github.io](https://faheemkhan.github.io)**                                  |
+| 🌍 **[YoutTube - (BProp) Beyond Backpropagation]([https://faheemkhan.github.io](https://www.youtube.com/@BeyondBackpropagation))**                            | 👨‍💻 **[All of my AI & ML Projects & Publication here -> @faheemkhan.github.io](https://faheemkhan.github.io)**                                  |
 | 🧠 **[Medium - @thefaheemkhan](https://medium.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
 | 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Medium](https://medium.com/@thefaheemkhan)                                        |
 | 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**                           | - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)                                    |
