@@ -56,39 +56,14 @@ Stay updated with my AI journey, tutorials, and projects:
 | **Socials**                                                                 | **Articles & Projects**                                                                 |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 🌍 **[YoutTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**                            | 👨‍💻 **[My Portfolio -> https://faheemkhan.github.io](https://faheemkhan.github.io)**                                  |
-| 🧠 **[Medium - @thefaheemkhan](https://medium.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
+| 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
 | 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Medium](https://medium.com/@thefaheemkhan)                                        |
 | 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**                           | - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)                                    |
 | 💻 **[GitHub - @thefaheemkhan](https://github.com/thefaheemkhan)**                          | - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
-
-
----
-
-### Tchnologies i use:
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/python.png" alt="#" height="40" width="40" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/sklearn.png" alt="#" height="40" width="60" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/tensorflow.png" alt="#" height="40" width="40" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/pytorch.png" alt="#" height="40" width="40" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/jupyter.png" alt="#" height="40" width="40" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/fastapi.png" alt="#" height="40" width="40" /> </a>
-<a href="#" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/docker.png" alt="#" height="40" width="40" /> </a>
-<a href="##" target="blank"><img align="center" src="https://github.com/thefaheemkhan/github-readme/blob/main/assets/django.png" alt="#" height="40" width="70" /> </a>
+| 🌍 **[Instagram - @thefaheemkhan](https://instagram.com/the.faheemkhan)**                          | - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
 
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thefahimkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thefahimkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/the.faheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.faheemkhan" height="30" width="40" /></a>
-<a href="https://medium.com/@thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thefaheemkhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thefaheemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thefaheemkhan" height="30" width="40" /></a>
-</p>
 
 ---
 
