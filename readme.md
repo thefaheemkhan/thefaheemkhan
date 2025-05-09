@@ -55,11 +55,11 @@ Stay updated with my AI journey, tutorials, and projects:
 | **Socials**                                                                 | **Articles & Projects**                                                                 |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 🌍 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**                            | 👨‍💻 **[Portfolio](https://faheemkhan.github.io)**                                  |
-| 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
-| 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 **[Medium](https://medium.com/@thefaheemkhan)**                                        |
-| 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**                           | - 🧠 **[GitHub Blog](https://thefaheemkhan.github.io)**                                    |
-| 💻 **[GitHub - @thefaheemkhan](https://github.com/thefaheemkhan)**                          | - 💼 **[Kaggle](https://kaggle.com/in/thefaheemkhan)**                                 |
-| 🌍 **[Instagram - @thefaheemkhan](https://instagram.com/the.faheemkhan)**                          | - 💼 **[Subscribe My Newsletter (BProp)](https://linkedin.com/in/thefaheemkhan)**                                 |
+| 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**                          | 🔗 **[Leetcode](https://leetcode.com/in/thefaheemkhan)**                                                                     |
+| 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**                    | 📘 **[Medium](https://medium.com/@thefaheemkhan)**                                        |
+| 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**                           | 🧠 **[GitHub Blog](https://thefaheemkhan.github.io)**                                    |
+| 💻 **[GitHub - @thefaheemkhan](https://github.com/thefaheemkhan)**                          | 💻 **[Kaggle](https://kaggle.com/in/thefaheemkhan)**                                 |
+| 🌍 **[Instagram - @thefaheemkhan](https://instagram.com/the.faheemkhan)**                          | 💼 **[Subscribe My Newsletter (BProp)](https://linkedin.com/in/thefaheemkhan)**                                 |
 
 
 
