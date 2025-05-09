@@ -23,38 +23,15 @@ Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering f
 
 ## 🚧 Current Projects
 
-### 🧠 EnigmaX Labs
+You're building **two AI companies**:
 
-A content-driven AI education initiative to help developers, creators, and enterprises learn, adopt, and innovate with AI.
-
-📌 Focus:
-
-- Teaching AI, ML, DL, and GenAI
-- Curated marketplace for AI tools & plugins
-- Free + premium video tutorials, blogs, and workflows
-- Enterprise AI integration & consulting
-
-### 🛰️ XYZ AI Platform (In Development)
-
-An AI-powered ecosystem designed to make **AI tools discoverable, learnable, and deployable**. Think of it as the **Play Store + Skillshare for AI**.
-
-📌 Core features:
-
-- 🎓 Learn how to use trending AI tools via video + blog
-- 🛠️ Marketplace for AI tools, models, and APIs
-- 🧠 All-in-one AI Assistant (dev + business productivity)
-- 🏢 AI integration services for enterprises
-
-### 🧬 ABC Research Labs
-
-A future company focused on building **industry-specific AI models**, conducting **cutting-edge research**, and progressing toward **AGI**.
-
-📌 Goals:
-
-- Build models for healthcare, defense, fintech, robotics
-- Publish breakthrough research papers
-- Launch open-source tools + developer SDKs
-- Lead AI innovation like OpenAI, DeepMind, and beyond
+1. **🧩 XYZ Platform** – A unified hub to **learn, explore, and deploy AI tools**, like a 🛍️ *Play Store + 🎓 Skillshare* for AI.
+    
+    → 🔍 Tutorials | 🛠️ AI Marketplace | 🤖 AI Assistant | 🏢 Enterprise Integration
+    
+2. **🧬 ABC Research Labs** – A deep-tech company to **build advanced AI models**, publish 📄 *research*, and progress toward **AGI**.
+    
+    → 🏥 Healthcare | 🛡️ Defense | 💰 Fintech | 🤖 Robotics | 🧪 Open-source AI
 
 ---
 
@@ -69,13 +46,15 @@ A future company focused on building **industry-specific AI models**, conducting
 
 ## 🌐 Connect With Me
 
+Stay updated with my AI journey, tutorials, and projects:
+
 | **Socials**                                                                 | **Articles & Projects**                                                                 |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All Projects](https://faheemkhan.github.io)**                                  |
-| 🧠 **[Medium](https://medium.com/@thefaheemkhan)**                          | 📝 **Articles on:**                                                                     |
-| 🔗 **[LinkedIn](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Medium](https://medium.com/@thefaheemkhan)                                        |
-| 🐦 **[Twitter (X)](https://x.com/thefahimkhan)**                           | - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)                                    |
-| 💻 **[GitHub](https://github.com/thefaheemkhan)**                          | - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
+| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All of my AI & ML Projects](https://faheemkhan.github.io)**                                  |
+| 🧠 **[Medium](https://medium.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
+| 🔗 **[LinkedIn](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Faheem Khan - Medium](https://medium.com/@thefaheemkhan)                                        |
+| 🐦 **[Twitter (X)](https://x.com/thefahimkhan)**                           | - 🧠 [Faheem Khan - GitHub Blog](https://thefaheemkhan.github.io)                                    |
+| 💻 **[GitHub](https://github.com/thefaheemkhan)**                          | - 💼 [Faheem Khan - LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
 
 
 
