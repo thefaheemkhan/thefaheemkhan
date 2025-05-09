@@ -29,9 +29,7 @@ I’m especially interested in: 🔁 **Reinforcement Learning**, ✨ **Generativ
 
 ## 🚧 Current Projects
 
-You're building **two AI companies**:
-
-1. **🧩 AgoraX AI Platform** – A unified hub to **learn, explore, and deploy AI tools**, like a 🛍️ *Play Store + 🎓 Skillshare* for AI.
+1. **🧩 AgoraX AI Platform** – AI enablement platform that helps individuals and enterprises 🧑‍💻🏢 discover 🔍 AI tools, learn 🎓 through curated content (videos + blogs), and integrate ⚙️ them into real-world workflows for maximum impact 🌍.
     
     → 🔍 Tutorials | 🛠️ AI Marketplace | 🤖 AI Assistant | 🏢 Enterprise Integration
     
