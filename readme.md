@@ -25,11 +25,11 @@ Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering f
 
 You're building **two AI companies**:
 
-1. **🧩 XYZ Platform** – A unified hub to **learn, explore, and deploy AI tools**, like a 🛍️ *Play Store + 🎓 Skillshare* for AI.
+1. **🧩 AgoraX AI Platform** – A unified hub to **learn, explore, and deploy AI tools**, like a 🛍️ *Play Store + 🎓 Skillshare* for AI.
     
     → 🔍 Tutorials | 🛠️ AI Marketplace | 🤖 AI Assistant | 🏢 Enterprise Integration
     
-2. **🧬 ABC Research Labs** – A deep-tech company to **build advanced AI models**, publish 📄 *research*, and progress toward **AGI**.
+2. **🧬 EnigmaX Research Labs** – A deep-tech company to **build advanced AI models**, publish 📄 *research*, and progress toward **AGI**.
     
     → 🏥 Healthcare | 🛡️ Defense | 💰 Fintech | 🤖 Robotics | 🧪 Open-source AI
 
@@ -50,35 +50,12 @@ Stay updated with my AI journey, tutorials, and projects:
 
 | **Socials**                                                                 | **Articles & Projects**                                                                 |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All of my AI & ML Projects](https://faheemkhan.github.io)**                                  |
-| 🧠 **[Medium](https://medium.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
-| 🔗 **[LinkedIn](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Faheem Khan - Medium](https://medium.com/@thefaheemkhan)                                        |
-| 🐦 **[Twitter (X)](https://x.com/thefahimkhan)**                           | - 🧠 [Faheem Khan - GitHub Blog](https://thefaheemkhan.github.io)                                    |
-| 💻 **[GitHub](https://github.com/thefaheemkhan)**                          | - 💼 [Faheem Khan - LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
+| 🌍 **[Portfolio](https://faheemkhan.github.io)**                            | 👨‍💻 **[All of my AI & ML Projects @faheemkhan.github.io](https://faheemkhan.github.io)**                                  |
+| 🧠 **[Medium - @thefaheemkhan](https://medium.com/@thefaheemkhan)**                          | 📝 **I Regularly write Articles about AI on:**                                                                     |
+| 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**                    | - 📘 [Medium](https://medium.com/@thefaheemkhan)                                        |
+| 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**                           | - 🧠 [GitHub Blog](https://thefaheemkhan.github.io)                                    |
+| 💻 **[GitHub - @thefaheemkhan](https://github.com/thefaheemkhan)**                          | - 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)                                 |
 
-
-
-## 🌐 Connect With Me
-
-Stay updated with my AI journey, tutorials, and projects:
-
-- 🌍 **Portfolio:** [faheemkhan.github.io](https://thefaheemkhan.github.io/)
-- 🧠 **Medium:** [@thefaheemkhan](https://medium.com/@thefaheemkhan)
-- 🔗 **LinkedIn:** [thefaheemkhan](https://linkedin.com/in/thefaheemkhan)
-- 🐦 **Twitter (X):** [@thefahimkhan](https://twitter.com/thefahimkhan)
-- 💻 **GitHub:** [@thefaheemkhan](https://github.com/thefaheemkhan)
-
----
-
-## 📂 Projects & Articles
-
-👨‍💻 All of my AI & ML projects: [faheemkhan.github.io](https://thefaheemkhan.github.io/)
-
-📝 I regularly write about AI on:
-
-- 📘 [Medium](https://medium.com/@thefaheemkhan)
-- 🧠 [GitHub Blog](https://thefaheemkhan.github.io/)
-- 💼 [LinkedIn](https://linkedin.com/in/thefaheemkhan)
 
 ---
 
