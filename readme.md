@@ -18,6 +18,7 @@
 ## 🔭 What I'm Passionate About
 
 I’m deeply passionate about the transformative power of **Artificial Intelligence** 🤖, **Machine Learning** 📊, and **Deep Learning** 🧠. My work spans across the full AI stack — from building intelligent **Computer Vision** 👁️ systems to developing sophisticated **Natural Language Processing** 🗣️ models.
+
 Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering force in AI — building AI systems and companies that push the boundaries of what's possible and leave a lasting impact on humanity 🌟.
 
 I believe in AI’s ability to solve some of the world’s biggest challenges 🌍 — whether it’s **revolutionizing healthcare** 🏥, **automating finance** 💹, **defending nations** 🛡️, **accelerating clean energy** ⚡, or **exploring space** 🚀.
