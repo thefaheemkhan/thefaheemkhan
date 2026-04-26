@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
----
 
 ## 🔭 What I'm Exploring Right Now
 
