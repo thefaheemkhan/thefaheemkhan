@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Faheem Khan 👋</h1>
 <p align="center">
-<p align="center">🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents>
+<p align="center">🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents
 <p align="center">
 
 
----
 <p align="center">
   <!-- Profile Metrics -->
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -69,7 +68,7 @@ Stay updated with my AI journey, tutorials, and projects:
 7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
 8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
 -->
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
