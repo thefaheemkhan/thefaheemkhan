@@ -57,7 +57,7 @@ I’d genuinely like to connect and build something meaningful together.
 
 ---
 
-
+<!--
 ## 🌐 Connect With Me
 
 Stay updated with my AI journey, tutorials, and projects:
@@ -70,8 +70,83 @@ Stay updated with my AI journey, tutorials, and projects:
 6. 🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
 7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
 8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
-
+-->
 ---
+<p align="left">
+  <a href="https://www.youtube.com/@BeyondBackpropagation">
+    <img src="https://cdn.simpleicons.org/youtube" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/thefahimkhan">
+    <img src="https://cdn.simpleicons.org/x" width="40" height="40"/>
+  </a>
+  <a href="https://substack.com/@thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/substack" width="40" height="40"/>
+  </a>
+  <a href="https://kaggle.com/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://www.reddit.com/user/thefaheemkhan/">
+    <img src="https://cdn.simpleicons.org/reddit" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/users/the.faheemkhan">
+    <img src="https://cdn.simpleicons.org/discord" width="40" height="40"/>
+  </a>
+</p>
+---
+<p align="left">
+  <a href="https://www.youtube.com/@BeyondBackpropagation">
+    <img src="https://cdn.simpleicons.org/youtube" width="20"/> BProp
+  </a><br>
+  
+  <a href="https://linkedin.com/in/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/linkedin" width="20"/> thefaheemkhan
+  </a><br>
+  
+  <a href="https://x.com/thefahimkhan">
+    <img src="https://cdn.simpleicons.org/x" width="20"/> @thefahimkhan
+  </a><br>
+  
+  <a href="https://substack.com/@thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/substack" width="20"/> thefaheemkhan
+  </a><br>
+  
+  <a href="https://kaggle.com/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/kaggle" width="20"/> thefaheemkhan
+  </a><br>
+  
+  <a href="https://huggingface.co/thefaheemkhan">
+    <img src="https://cdn.simpleicons.org/huggingface" width="20"/> thefaheemkhan
+  </a><br>
+  
+  <a href="https://www.reddit.com/user/thefaheemkhan/">
+    <img src="https://cdn.simpleicons.org/reddit" width="20"/> thefaheemkhan
+  </a><br>
+  
+  <a href="https://discord.com/users/the.faheemkhan">
+    <img src="https://cdn.simpleicons.org/discord" width="20"/> the.faheemkhan
+  </a>
+</p>
+---
+<p align="center">
+  <a href="https://www.youtube.com/@BeyondBackpropagation">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube" />
+  </a>
+  <a href="https://linkedin.com/in/thefaheemkhan">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://x.com/thefahimkhan">
+    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=twitter" />
+  </a>
+  <a href="https://substack.com/@thefaheemkhan">
+    <img src="https://img.shields.io/badge/-Substack-000?style=flat&logo=substack" />
+  </a>
+</p>
 ---
 <p align="left">
   <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
