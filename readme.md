@@ -15,35 +15,41 @@
 
 ---
 
-## 🔭 What I'm Passionate About
+## 🔭 What I'm Exploring Right Now
 
-I’m deeply passionate about the transformative power of **Artificial Intelligence** 🤖, **Machine Learning** 📊, and **Deep Learning** 🧠. My work spans across the full AI stack — from building intelligent **Computer Vision** 👁️ systems to developing sophisticated **Natural Language Processing** 🗣️ models.
+I’m currently diving deep into advanced transformer architectures and inference optimization — especially around long-context models and efficient attention mechanisms ⚡. Recently, I’ve been analyzing a complex issue in Transformers involving adding Flash Attention 2 support to T5Gemma2 — a 128K context encoder-decoder model.
 
-Inspired by **Tony Stark** 🦾, my long-term vision is to become a pioneering force in AI — building AI systems and companies that push the boundaries of what's possible and leave a lasting impact on humanity 🌟.
+This problem sits at the intersection of:
 
-I believe in AI’s ability to solve some of the world’s biggest challenges 🌍 — whether it’s **revolutionizing healthcare** 🏥, **automating finance** 💹, **defending nations** 🛡️, **accelerating clean energy** ⚡, or **exploring space** 🚀.
-
-I’m especially interested in: 🔁 **Reinforcement Learning**, ✨ **Generative AI & LLMs**, 🧱 **Building scalable AI infrastructure**, 📚 **Ethical, responsible AI development**
-
----
-
-## 🚧 Current Projects
-
-1. **🧩 AgoraX AI Platform** – AI enablement platform that helps individuals and enterprises 🧑‍💻🏢 discover 🔍 AI tools, learn 🎓 through curated content (videos + blogs), and integrate ⚙️ them into real-world workflows for maximum impact 🌍.
-    
-    → 🔍 Tutorials | 🛠️ AI Marketplace | 🤖 AI Assistant | 🏢 Enterprise Integration
-    
-2. **🧬 EnigmaX Research Labs** – A deep-tech company to **build advanced AI models**, publish 📄 *research*, and progress toward **AGI**.
-    
-    → 🏥 Healthcare | 🛡️ Defense | 💰 Fintech | 🤖 Robotics | 🧪 Open-source AI
+🧠 Transformer architecture design
+⚡ Memory-efficient attention (Flash Attention, SDPA)
+🧩 Non-standard attention patterns (merged self + cross attention)
+🏗️ Scalable inference systems
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🚧 What I'm Working Toward
 
-👯 I’m always excited to connect with other AI enthusiasts, researchers, and builders. If you're working on something cool — especially in **LLMs, NLP, GenAI, or multimodal systems** — let’s talk!
+I’m actively working toward being able to:
+
+🧩 Contribute to deep learning frameworks like Transformers
+⚙️ Implement low-level optimizations in transformer models
+📈 Improve real-world usability of long-context LLMs
+🧠 Bridge the gap between research papers and production systems
+🔥 My Broader Vision
+
+Inspired by Tony Stark 🦾, I’m building toward becoming a deep-tech AI engineer and founder — someone who doesn’t just use AI APIs, but builds systems from the ground up.
+
+
+## 🤝 Let’s Collaborate
+
+👯 I’m always excited to connect with other AI enthusiasts, researchers, and builders. If you're working on something cool — especially in **LLMs / GenAI, Transformer optimization, Multimodal systems, AI infra, or multimodal systems** — let’s talk!
+
+I’d genuinely like to connect and build something meaningful together.
 
 📬 Reach me at: [**thefaheemkhan11@gmail.com**](mailto:thefaheemkhan11@gmail.com)
+
+---
 
 ---
 
