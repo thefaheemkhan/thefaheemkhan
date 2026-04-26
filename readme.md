@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Faheem Khan 👋</h1>
 <p align="center">
-🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents
+🚀 **AI Engineer** | 🤖 **Geneartive AI** | 🧠 **Large Language Models** | 🦾 **AI Agents**
 </p>
 
-## 📊 GitHub Overview
-
+---
 <p align="center">
   <!-- Profile Metrics -->
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,31 +12,40 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thefaheemkhan&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaheemkhan&hide_border=true" height="150" />
-</p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaheemkhan&layout=compact&hide_border=true" height="150" />
+<p align="left">
+  <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/thefaheemkhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-thefaheemkhan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/thefahimkhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
+  <a href="https://substack.com/@thefaheemkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-thefaheemkhan-orange?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
+  
+  <a href="https://kaggle.com/thefaheemkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-thefaheemkhan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  
+  <a href="https://huggingface.co/thefaheemkhan" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-thefaheemkhan-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  
+  <a href="https://www.reddit.com/user/thefaheemkhan/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-thefaheemkhan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  
+  <a href="https://discord.com/users/the.faheemkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-the.faheemkhan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  <!-- Achievement Badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=thefaheemkhan&theme=flat&no-frame=true&margin-w=10" />
-</p>
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="faheem profile views" />
-  <a href="https://thefaheemkhan.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/thefaheemkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/thefahimkhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@thefaheemkhan" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/thefaheemkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:thefaheemkhan11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
--->
 
 ---
 
@@ -81,11 +89,11 @@ I’d genuinely like to connect and build something meaningful together.
 
 ---
 
-
+<!--
 ## 🌐 Connect With Me
 
 Stay updated with my AI journey, tutorials, and projects:
-<!--
+
 1. 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
 2. 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
 3. 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
@@ -95,39 +103,6 @@ Stay updated with my AI journey, tutorials, and projects:
 7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
 8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
 -->
-<p align="left">
-  <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  
-  <a href="https://linkedin.com/in/thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-thefaheemkhan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://x.com/thefahimkhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
-  <a href="https://substack.com/@thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-thefaheemkhan-orange?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-  
-  <a href="https://kaggle.com/thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-thefaheemkhan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  
-  <a href="https://huggingface.co/thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-thefaheemkhan-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-  
-  <a href="https://www.reddit.com/user/thefaheemkhan/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-thefaheemkhan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.com/users/the.faheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-the.faheemkhan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
 
 ---
 ## 🛠️ Technologies & Tech Stack
