@@ -62,14 +62,14 @@ I’d genuinely like to connect and build something meaningful together.
 
 Stay updated with my AI journey, tutorials, and projects:
 
-#### 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
-#### 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
-#### 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
-#### 📑 **[Subtsack - @thefaheemkhan](https://substack.com/@thefaheemkhan)**
-#### 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**
-#### 🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
-#### 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/))**
-#### 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com))**
+1. 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
+2. 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
+3. 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
+4. 📑 **[Subtsack - @thefaheemkhan](https://substack.com/@thefaheemkhan)**
+5. 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**
+6. 🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
+7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
+8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
 
 ---
 
