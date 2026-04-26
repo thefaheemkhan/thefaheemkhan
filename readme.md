@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Faheem Khan 👋</h1>
 <p align="center">
-🚀 **AI Engineer** | 🤖 **Geneartive AI** | 🧠 **Large Language Models** | 🦾 **AI Agents**
+🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents
 </p>
 
 ---
