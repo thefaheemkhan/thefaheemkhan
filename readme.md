@@ -17,14 +17,18 @@
 
 ## 🔭 What I'm Exploring Right Now
 
-I’m currently diving deep into advanced transformer architectures and inference optimization — especially around long-context models and efficient attention mechanisms ⚡. Recently, I’ve been analyzing a complex issue in Transformers involving adding Flash Attention 2 support to T5Gemma2 — a 128K context encoder-decoder model.
+I’m currently focused on building an AI Operating System (AI-OS) — a unified platform that orchestrates models, tools, and agents into cohesive, real-world workflows ⚡
 
-This problem sits at the intersection of:
+My work revolves around:
 
-🧠 Transformer architecture design
-⚡ Memory-efficient attention (Flash Attention, SDPA)
-🧩 Non-standard attention patterns (merged self + cross attention)
-🏗️ Scalable inference systems
+🤖 AI Agents & Agentic Systems — designing autonomous and multi-agent workflows
+✨ Generative AI & LLMs — powering reasoning, interaction, and content generation
+🧩 Tooling & Integrations — building and connecting APIs, plugins, and external systems
+🏗️ AI Infrastructure — orchestration layers, memory systems, and scalable backends
+🧠 Model Utilization — combining open and proprietary models for optimal performance
+🔄 Workflow Automation — turning complex tasks into intelligent, end-to-end pipelines
+
+I’m particularly interested in creating systems where agents + tools + models work together seamlessly — moving toward a future where AI platforms act as full-fledged operating systems for problem-solving and execution.
 
 ---
 
@@ -58,14 +62,14 @@ I’d genuinely like to connect and build something meaningful together.
 
 Stay updated with my AI journey, tutorials, and projects:
 
-📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
-🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
-🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
-📑 **[Subtsack - @thefaheemkhan](https://substack.com/@thefaheemkhan)**
-🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**
-🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
-🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/))**
-👾 **[Discord - @the.faheemkhan](https://www.https://discord.com))**
+#### 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
+#### 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
+#### 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
+#### 📑 **[Subtsack - @thefaheemkhan](https://substack.com/@thefaheemkhan)**
+#### 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**
+#### 🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
+#### 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/))**
+#### 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com))**
 
 ---
 
