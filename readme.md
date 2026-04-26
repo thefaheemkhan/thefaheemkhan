@@ -15,32 +15,15 @@
 
 ## 🔭 What I'm Exploring Right Now
 
-I’m currently focused on building an AI Operating System (AI-OS) — a unified platform that orchestrates models, tools, and agents into cohesive, real-world workflows ⚡
-
-My work revolves around:
-
-🤖 AI Agents & Agentic Systems — designing autonomous and multi-agent workflows
-✨ Generative AI & LLMs — powering reasoning, interaction, and content generation
-🧩 Tooling & Integrations — building and connecting APIs, plugins, and external systems
-🏗️ AI Infrastructure — orchestration layers, memory systems, and scalable backends
-🧠 Model Utilization — combining open and proprietary models for optimal performance
-🔄 Workflow Automation — turning complex tasks into intelligent, end-to-end pipelines
-
-I’m particularly interested in creating systems where agents + tools + models work together seamlessly — moving toward a future where AI platforms act as full-fledged operating systems for problem-solving and execution.
-
----
-
-## 🚧 What I'm Working Toward
-
 I’m actively working toward being able to:
 
-🧩 Contribute to deep learning frameworks like Transformers
+🧩 Contribute to Deep Learning & GenAi frameworks like Transformers
 ⚙️ Implement low-level optimizations in transformer models
 📈 Improve real-world usability of long-context LLMs
 🧠 Bridge the gap between research papers and production systems
 🔥 My Broader Vision
 
-Inspired by Tony Stark 🦾, I’m building toward becoming a deep-tech AI engineer and founder — someone who doesn’t just use AI APIs, but builds systems from the ground up.
+Inspired by Andrej Karpathy, Ilya Sutskever, Geoffrey Hinton, Demis Hassabis, and many more tech visionaries 🦾, I’m building toward becoming a deep-tech AI Engineer and Researcher — someone who doesn’t just use AI APIs, but builds systems from the ground up.
 
 
 ## 🤝 Let’s Collaborate
