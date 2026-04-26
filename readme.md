@@ -1,8 +1,29 @@
 <h1 align="center">Hi there, I'm Faheem Khan 👋</h1>
 <p align="center">
-🚀 Machine Learning Engineer | 🤖 AI Practitioner | 🧠 LLM Explorer | 🦾 Future Tony Stark of AI  
+🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents
 </p>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thefaheemkhan&show_icons=true&theme=default&hide_border=true" height="150" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaheemkhan&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaheemkhan&layout=compact&hide_border=true" height="150" />
+</p>
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="faheem profile views" />
   <a href="https://thefaheemkhan.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -12,6 +33,7 @@
   <a href="https://github.com/thefaheemkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:thefaheemkhan11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+-->
 
 ---
 
