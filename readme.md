@@ -3,25 +3,29 @@
 🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents
 </p>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- Profile Metrics -->
+  <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/thefaheemkhan?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/thefaheemkhan?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
 </p>
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thefaheemkhan&show_icons=true&theme=default&hide_border=true" height="150" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaheemkhan&theme=default&hide_border=true" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thefaheemkhan&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaheemkhan&hide_border=true" height="150" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaheemkhan&layout=compact&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <!-- Achievement Badges -->
+  <img src="https://github-profile-trophy.vercel.app/?username=thefaheemkhan&theme=flat&no-frame=true&margin-w=10" />
 </p>
 <!--
 <p align="center">
@@ -73,7 +77,7 @@ Inspired by Tony Stark 🦾, I’m building toward becoming a deep-tech AI engin
 
 I’d genuinely like to connect and build something meaningful together.
 
-📬 Reach me at: [**thefaheemkhan11@gmail.com**](mailto:thefaheemkhan11@gmail.com)
+📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com)
 
 ---
 
