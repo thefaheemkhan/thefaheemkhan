@@ -55,13 +55,11 @@ I’d genuinely like to connect and build something meaningful together.
 
 ---
 
----
 
-<!--
 ## 🌐 Connect With Me
 
 Stay updated with my AI journey, tutorials, and projects:
-
+<!--
 1. 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
 2. 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
 3. 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
@@ -71,9 +69,6 @@ Stay updated with my AI journey, tutorials, and projects:
 7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
 8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
 -->
----
-
----
 <p align="left">
   <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
