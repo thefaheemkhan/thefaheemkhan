@@ -13,7 +13,7 @@
 
 <p align="center">
 
-## 🔭 What I'm Exploring Right Now!
+## 🔭 What I'm Exploring Right Now
 
 I’m actively working toward being able to:
 
