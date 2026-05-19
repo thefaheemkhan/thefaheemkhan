@@ -23,7 +23,7 @@ I’m actively working toward being able to:
 🧠 Bridge the gap between research papers and production systems
 🔥 My Broader Vision
 
-Inspired by Andrej Karpathy, Ilya Sutskever, Geoffrey Hinton, Demis Hassabis, and many more tech visionaries 🦾, I’m building toward becoming a deep-tech AI Engineer and Researcher — someone who doesn’t just use AI APIs, but builds systems from the ground up.
+Inspired by Andrej Karpathy, Ilya Sutskever, Geoffrey Hinton, Demis Hassabis, and many more tech visionaries 🦾, I’m building toward becoming a deep-tech AI Engineer and Researcher, someone who doesn’t just use AI APIs, but builds systems from the ground up.
 
 
 ## 🤝 Let’s Collaborate
