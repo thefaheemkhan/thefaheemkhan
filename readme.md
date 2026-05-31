@@ -17,7 +17,7 @@
 
 I’m actively working toward being able to:
 
-🧩 Contribute to Deep Learning & GenAi frameworks like Transformers
+🧩 Contribute to Deep Learning & GenAi frameworks like Transformers, 
 ⚙️ Implement low-level optimizations in transformer models
 📈 Improve real-world usability of long-context LLMs
 🧠 Bridge the gap between research papers and production systems
