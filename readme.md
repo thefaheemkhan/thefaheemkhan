@@ -33,7 +33,6 @@ I’d genuinely like to connect and build something meaningful together.
 
 ## 🌐 Connect With Me
 
-Stay updated with my AI journey, tutorials, and projects:
 <!--
 1. 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
 2. 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
