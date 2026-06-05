@@ -33,16 +33,6 @@ I’d genuinely like to connect and build something meaningful together.
 
 ## 🌐 Connect With Me
 
-<!--
-1. 📺 **[YouTube - BProp (Beyond Backpropagation)](https://www.youtube.com/@BeyondBackpropagation)**
-2. 🔗 **[LinkedIn - @thefaheemkhan](https://linkedin.com/in/thefaheemkhan)**
-3. 🐦 **[Twitter (X) - @thefahimkhan](https://x.com/thefahimkhan)**
-4. 📑 **[Subtsack - @thefaheemkhan](https://substack.com/@thefaheemkhan)**
-5. 🧠 **[Kaggle - @thefaheemkhan](https://kaggle.com/@thefaheemkhan)**
-6. 🫠 **[Huggingface - @thefaheemkhan](https://huggingface.co/thefaheemkhan)**
-7. 🤖 **[Reddit - @thefaheemkhan](https://www.reddit.com/user/thefaheemkhan/)**
-8. 👾 **[Discord - @the.faheemkhan](https://www.https://discord.com)**
--->
 <p align="left">
   <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
