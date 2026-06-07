@@ -67,7 +67,7 @@ I’d genuinely like to connect and build something meaningful together.
   </a>
 </p>
 
-
+<!--
 ---
 ## 🛠️ Technologies & Tech Stack
 
@@ -119,7 +119,7 @@ I’d genuinely like to connect and build something meaningful together.
 ### 🧩 **Miscellaneous**
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20API-0044CC?style=flat-square&logo=swagger&logoColor=white)
-
+-->
 
 ### Profile Stats:
 
