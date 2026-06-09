@@ -22,7 +22,7 @@ I’m actively working toward being able to:
 📈 Improve real-world usability of long-context LLMs,
 🧠 Bridge the gap between research papers and production systems.
 
-👯 I’m always excited to connect with other AI enthusiasts, researchers, and builders. If you're working on something cool, especially in **LLMs / GenAI, Transformer optimization, Multimodal systems, AI infra, or multimodal systems** — let’s talk! 
+👯 I’m always excited to connect with other AI enthusiasts, researchers, and builders. If you're working on something cool, especially in **LLMs / GenAI, Transformer optimization, Multimodal systems, AI Agents, or multimodal systems** — let’s talk! 
 
 I’d genuinely like to connect and build something meaningful together.
 
