@@ -30,12 +30,10 @@
 
 I'm always interested in connecting with researchers, engineers, and builders working on:
 
-* Large Language Models (LLMs)
-* Generative AI Applications
+* Large Language Models (LLMs) & Transformers
+* Generative AI Applications & Multimodal AI 
 * AI Agents & Agentic Workflows
 * RAG & Knowledge Systems
-* Multimodal AI
-* Deep Learning & Transformer Research
 * AI Infrastructure & Deployment
 
 If you're building something ambitious in AI, feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
