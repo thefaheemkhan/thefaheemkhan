@@ -17,19 +17,14 @@
 
 ## What I'm Exploring Right Now
 
-I'm currently focused on building expertise in Large Language Models, AI Agents, and production-grade AI systems.
+### I'm currently focused on building expertise in Large Language Models, AI Agents, and production-grade AI systems.
 
-### Current Focus Areas
 
-🧩 Contributing to open-source LLM and Generative AI frameworks, with a particular interest in transformer architectures and model development.
-
-⚙️ Studying the internals of transformer models, including attention mechanisms, inference optimization, KV caching, quantization, and efficient fine-tuning techniques.
-
-📈 Exploring solutions for long-context reasoning, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
-
-🧠 Translating cutting-edge AI research into practical applications by implementing papers, reproducing experiments, and building real-world AI products.
-
-🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution.
+-> 🧩 Contributing to open-source LLM and Generative AI frameworks, with a particular interest in transformer architectures and model development.
+-> ⚙️ Studying the internals of transformer models, including attention mechanisms, inference optimization, KV caching, quantization, and efficient fine-tuning techniques.
+-> 📈 Exploring solutions for long-context reasoning, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
+-> 🧠 Translating cutting-edge AI research into practical applications by implementing papers, reproducing experiments, and building real-world AI products.
+-> 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution.
 
 ### Open to Collaborate
 
