@@ -15,8 +15,6 @@
 
 ## 🔭 What I'm Exploring Right Now 
 
-## What I'm Exploring Right Now
-
 ### I'm currently focused on building expertise in Large Language Models, AI Agents, and production-grade AI systems.
 
 
