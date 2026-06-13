@@ -15,16 +15,35 @@
 
 ## 🔭 What I'm Exploring Right Now 
 
-I’m actively working toward being able to:
+## What I'm Exploring Right Now
 
-🧩 Contribute to GenAi & LLMs frameworks like Transformers, 
-⚙️ Implement low-level optimizations in transformer models, 
-📈 Improve real-world usability of long-context LLMs,
-🧠 Bridge the gap between research papers and production systems.
+I'm currently focused on building expertise in Large Language Models, AI Agents, and production-grade AI systems.
 
-👯 I’m always excited to connect with other AI enthusiasts, researchers, and builders. If you're working on something cool, especially in **LLMs / GenAI, Transformer optimization, Multimodal systems, AI Agents, or multimodal systems** — let’s talk! 
+### Current Focus Areas
 
-I’d genuinely like to connect and build something meaningful together.
+🧩 Contributing to open-source LLM and Generative AI frameworks, with a particular interest in transformer architectures and model development.
+
+⚙️ Studying the internals of transformer models, including attention mechanisms, inference optimization, KV caching, quantization, and efficient fine-tuning techniques.
+
+📈 Exploring solutions for long-context reasoning, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
+
+🧠 Translating cutting-edge AI research into practical applications by implementing papers, reproducing experiments, and building real-world AI products.
+
+🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution.
+
+### Open to Collaborate
+
+I'm always interested in connecting with researchers, engineers, and builders working on:
+
+* Large Language Models (LLMs)
+* Generative AI Applications
+* AI Agents & Agentic Workflows
+* RAG & Knowledge Systems
+* Multimodal AI
+* Deep Learning & Transformer Research
+* AI Infrastructure & Deployment
+
+If you're building something ambitious in AI, feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
 
 📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com)
 
