@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Faheem 👋</h1>
 <p align="center">
-<p align="center"> 🚀 AI Engineer | 🤖 Geneartive AI | 🧠 Large Language Models | 🦾 AI Agents | 📚 RAG Systems
+<p align="center"> 🚀 AI Engineer | 🤖 GenAI | 🧠 Large Language Models | 🦾 AI Agents | 📚 RAG Systems
 <p align="center">
 
 
