@@ -21,7 +21,7 @@
 * 🧩 Contributing to open-source LLM and Generative AI frameworks, with a particular interest in transformer architectures and model development.
 * 📈 Exploring solutions for long-context reasoning, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
 * 🧠 Translating cutting-edge AI research into practical applications by implementing papers, reproducing experiments, and building real-world AI products.
-* 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution.
+* 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
 
 ### Open to Collaborate
 
