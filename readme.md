@@ -29,7 +29,7 @@ I'm always interested in connecting with researchers, engineers, and builders wo
 
 * Large Language Models (LLMs) & Transformers
 * Generative AI Applications & Multimodal AI 
-* AI Agents & Agentic Workflows
+* AI Agents, Agentic Workflows & Multi-Agents
 * RAG & Knowledge Systems
 * AI Infrastructure & Deployment
 
