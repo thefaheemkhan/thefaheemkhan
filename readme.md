@@ -35,7 +35,7 @@ I'm always interested in connecting with researchers, engineers, and builders wo
 
 If you're building something ambitious in AI, feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
 
-📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com)
+📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
 
 ---
 
