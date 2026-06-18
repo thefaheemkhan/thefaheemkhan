@@ -75,16 +75,7 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
   </a>
 </p>
 
-<!--
----
-## 🛠️ Technologies & Tech Stack
 
-### 💻 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-
--->
 
 ### Profile Stats:
 
