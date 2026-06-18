@@ -124,9 +124,6 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-9B4C96?style=flat-square&logo=seaborn&logoColor=white)
 
-### 🧩 **Miscellaneous**
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20API-0044CC?style=flat-square&logo=swagger&logoColor=white)
 -->
 
 ### Profile Stats:
