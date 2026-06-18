@@ -99,12 +99,6 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
 ![GAN](https://img.shields.io/badge/-GAN-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/-RL-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-### 🌐 **Web Development & Frameworks**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 -->
 
 ### Profile Stats:
