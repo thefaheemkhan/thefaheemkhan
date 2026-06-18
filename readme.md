@@ -93,12 +93,6 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white)
 
-### 🧑‍💻 **Deep Learning & Neural Networks**
-![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=python&logoColor=white)
-![RNN](https://img.shields.io/badge/-RNN-FF6F00?style=flat-square&logo=python&logoColor=white)
-![GAN](https://img.shields.io/badge/-GAN-FF6F00?style=flat-square&logo=python&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/-RL-FF6F00?style=flat-square&logo=python&logoColor=white)
-
 -->
 
 ### Profile Stats:
