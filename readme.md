@@ -53,7 +53,7 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
   </a>
   
   <a href="https://x.com/thefahimkhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <!--
