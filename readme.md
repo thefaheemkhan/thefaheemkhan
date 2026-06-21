@@ -51,18 +51,22 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
   <a href="https://x.com/thefahimkhan" target="_blank">
     <img src="https://img.shields.io/badge/X-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
-  <a href="https://medium.com/@thefaheemkhan" target="_blank">
+
+  <!--
+  <a href="https://substack.com/@thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Substack-thefaheemkhan-orange?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
-
+  -->
+  
   <a href="https://medium.com/@thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Medium-@thefaheemkhan-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  
+
+  <!--
   <a href="https://kaggle.com/thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-thefaheemkhan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  -->
   
   <a href="https://huggingface.co/thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-thefaheemkhan-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
