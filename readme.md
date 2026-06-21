@@ -24,8 +24,6 @@
 
 ### Open to Collaborate
 
-I'm always interested in connecting with researchers, engineers, and builders working on:
-
 * Large Language Models (LLMs) & Transformers
 * Generative AI Applications & Multimodal AI 
 * AI Agents, Agentic Workflows & Multi-Agents
