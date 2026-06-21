@@ -41,7 +41,11 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
 
 <p align="left">
   <a href="https://www.youtube.com/@the.faheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Faheem-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FaheemKhan-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
   <a href="https://linkedin.com/in/thefaheemkhan" target="_blank">
