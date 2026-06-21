@@ -71,10 +71,16 @@ If you're building something ambitious in AI, feel free to connect. I'm always o
   <a href="https://huggingface.co/thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-thefaheemkhan-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
-  
+
+  <a href="https://scholar.google.com/citations?hl=en&user=6FlCWqoAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Faheem%20Khan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+
+  <!--
   <a href="https://www.reddit.com/user/thefaheemkhan/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-thefaheemkhan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
+  -->
   
   <a href="https://discord.com/users/the.faheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Discord-the.faheemkhan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
