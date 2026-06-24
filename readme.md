@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Faheem 👋</h1>
+<h1 align="center">Hey there, I'm Faheem 👋</h1>
 <p align="center">
 <p align="center"> <b> 🤖 GenAI | 🧠 Large Language Models (LLMs) | 🦾 AI Agents | 📚 RAG Systems </b>
 <p align="center">
