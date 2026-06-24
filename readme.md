@@ -24,8 +24,7 @@
 
 ### Open to Collaborate
 
-* Large Language Models (LLMs) & Transformers
-* Generative AI Applications & Multimodal AI 
+* Large Language Models (LLMs) & Transformers 
 * AI Agents, Agentic Workflows & Multi-Agents
 * RAG, Agentic RAG & Knowledge Systems 
 * AI Infrastructure & Deployment
