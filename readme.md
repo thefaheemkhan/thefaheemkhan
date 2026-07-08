@@ -26,7 +26,7 @@
 * AI Agents, Agentic Workflows & Multi-Agents
 * RAG, Agentic RAG & Knowledge Systems 
 
-If you're building something ambitious in AI, feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
+Feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
 
 📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
 
