@@ -15,8 +15,6 @@
 
 ## 🔭 What I'm Exploring Right Now
 
-### I'm currently focused on building expertise in Large Language Models, AI Agents, and production-grade AI systems.
-
 
 * 📈 Exploring solutions for AI Agents, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
 * 🧠 Translating AI research into practical applications by implementing papers, reproducing experiments.
