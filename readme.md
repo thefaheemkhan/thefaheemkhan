@@ -13,7 +13,7 @@
 
 <p align="center"> 
 
-## 🔭 What I'm Exploring Right Now     
+## 🔭 What I'm Exploring Right Now      
 
 
 * 📈 Exploring solutions for AI Agents, retrieval-augmented generation (RAG), memory systems, and scalable agent workflows.
