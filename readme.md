@@ -20,7 +20,7 @@
 * 🧠 Translating AI research into practical applications by implementing papers, reproducing experiments.
 * 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
 
-### Open to Collaborate
+### Open to Collaborate 
 
 * Large Language Models (LLMs) & Transformers 
 * AI Agents, Agentic Workflows & Multi-Agents
