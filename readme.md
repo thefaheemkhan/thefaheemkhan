@@ -24,7 +24,7 @@
 
 * Large Language Models (LLMs) & Transformers 
 * AI Agents, Agentic Workflows & Multi-Agents
-* RAG, Agentic RAG & Knowledge Systems 
+* RAG, Agentic RAG & Knowledge Systems  
 
 Feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
 
