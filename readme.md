@@ -4,7 +4,7 @@
 <p align="center">
 
 
-<p align="center">   
+<p align="center">
   <!-- Profile Metrics -->
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/thefaheemkhan?label=Followers&style=flat" />
