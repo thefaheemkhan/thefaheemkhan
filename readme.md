@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/stars/thefaheemkhan?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
 </p>
  
-<p align="center"> 
+<p align="center">  
 
 ## 🔭 What I'm Exploring Right Now      
 
