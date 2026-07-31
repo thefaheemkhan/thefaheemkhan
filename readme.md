@@ -75,11 +75,6 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
     <img src="https://img.shields.io/badge/Google%20Scholar-Faheem%20Khan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
-  <!--
-  <a href="https://www.reddit.com/user/thefaheemkhan/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-thefaheemkhan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  -->
   
   <a href="https://discord.com/users/the.faheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Discord-the.faheemkhan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
