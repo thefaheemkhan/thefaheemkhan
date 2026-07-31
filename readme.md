@@ -55,11 +55,6 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
     <img src="https://img.shields.io/badge/Medium-@thefaheemkhan-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
-  <!--
-  <a href="https://kaggle.com/thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-thefaheemkhan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  -->
   
   <a href="https://huggingface.co/thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-thefaheemkhan-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
