@@ -50,12 +50,6 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
   <a href="https://x.com/thefahimkhan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@thefahimkhan-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
-  <!--
-  <a href="https://substack.com/@thefaheemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-thefaheemkhan-orange?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-  -->
   
   <a href="https://medium.com/@thefaheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Medium-@thefaheemkhan-black?style=for-the-badge&logo=medium&logoColor=white" />
