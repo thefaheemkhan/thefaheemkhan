@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Faheem Khan 👋</h1> 
-<p align="center">
+<p align="center"> 
 <p align="center"> <b> 🤖 GenAI | 🧠 Large Language Models (LLMs) | 🦾 AI Agents | 📚 RAG Systems </b>
 <p align="center">
  
