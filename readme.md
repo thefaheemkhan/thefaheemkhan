@@ -2,7 +2,6 @@
 <p align="center">
 <p align="center"> <b> 🤖 GenAI | 🧠 Large Language Models (LLMs) | 🦾 AI Agents | 📚 RAG Systems </b>
 <p align="center">
-   
 
 <p align="center"> 
   <!-- Profile Metrics -->
@@ -10,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/thefaheemkhan?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/thefaheemkhan?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
 </p>
-   
+
 <p align="center">       
  
 ## 🔭 What I'm Exploring Right Now 
