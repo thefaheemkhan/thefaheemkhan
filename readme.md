@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/thefaheemkhan?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/thefaheemkhan?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
-</p>
+</p> 
   
 <p align="center">         
   
