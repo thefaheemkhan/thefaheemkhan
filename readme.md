@@ -6,9 +6,7 @@
 <p align="center">
   <!-- Profile Metrics -->
   <img src="https://komarev.com/ghpvc/?username=thefaheemkhan&label=Profile%20Views&color=0e75b6&style=flat" />
- <!--
   <img src="https://img.shields.io/github/followers/thefaheemkhan?label=Followers&style=flat" />
- -->
   <img src="https://img.shields.io/github/stars/thefaheemkhan?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
 </p> 
  
@@ -79,6 +77,8 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefaheemkhan&show_icons=true&locale=en&layout=compact" alt="thefaheemkhan" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefaheemkhan&show_icons=true&locale=en" alt="thefaheemkhan" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefaheemkhan&" alt="thefaheemkhan" /></p>
