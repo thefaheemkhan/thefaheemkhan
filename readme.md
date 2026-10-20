@@ -20,9 +20,6 @@
 * 🧠 Translating AI research into practical applications by implementing papers, reproducing experiments.
 * 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
 * 📬 I freelance in building AI agents, automating workflows, and developing RAG and LLM-powered solutions for businesses. Feel free to contact me for work and collaborations! [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com)
-* <a href="mailto:kfaheem119@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
 --- 
 
