@@ -27,6 +27,11 @@
 ## 🌐 Connect With Me 
 
 <p align="left">
+
+ <a href="mailto:kfaheem119@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+
   <a href="https://www.youtube.com/@the.faheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FaheemKhan-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
