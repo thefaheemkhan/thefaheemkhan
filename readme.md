@@ -17,9 +17,7 @@
 * 📈 Exploring solutions for AI Agents, Retrieval-Augmented Generation (RAG), memory systems, and scalable agent workflows.
 * 🧠 Translating AI research into practical applications by implementing papers, reproducing experiments.
 * 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
-
-
-📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
+* 📬 Feel free to reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
 
 --- 
 
