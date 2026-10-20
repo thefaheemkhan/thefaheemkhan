@@ -18,13 +18,7 @@
 * 🧠 Translating AI research into practical applications by implementing papers, reproducing experiments.
 * 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
 
-<!--
-### Open to Collaborate
 
-* Large Language Models (LLMs) & Transformers 
-* AI Agents, Agentic Workflows & Multi-Agents
-* RAG, Agentic RAG & Knowledge Systems  
--->
 Feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
 
 📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
@@ -39,8 +33,8 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
     <img src="https://img.shields.io/badge/YouTube-FaheemKhan-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://www.youtube.com/@BeyondBackpropagation" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-BProp-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://substack.com/@thefaheemkhan" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-Faheem%20Khan-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
   
   <a href="https://linkedin.com/in/thefaheemkhan" target="_blank">
@@ -67,6 +61,11 @@ Feel free to connect. I'm always open to learning, collaborating, and contributi
   <a href="https://discord.com/users/the.faheemkhan" target="_blank">
     <img src="https://img.shields.io/badge/Discord-the.faheemkhan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+  <a href="https://www.reddit.com/user/thefaheemkhan/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-Faheem%20Khan-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  
 </p>
 
 
