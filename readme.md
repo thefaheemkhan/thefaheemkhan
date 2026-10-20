@@ -19,8 +19,6 @@
 * 🤖 Developing AI Agents and multimodal systems capable of reasoning, tool usage, planning, and autonomous task execution. 
 
 
-Feel free to connect. I'm always open to learning, collaborating, and contributing to meaningful projects.
-
 📬 Reach me at: [**kfaheem119@gmail.com**](mailto:kfaheem119@gmail.com) 
 
 --- 
